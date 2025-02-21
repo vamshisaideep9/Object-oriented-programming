@@ -1,0 +1,20 @@
+1. Class and object
+
+- classes are blueprint for creating objects.
+- objects are instances of classes.
+- class defines attributes and methods(functions) that its objects can use.
+
+2. class has data/attributes and function/methods.
+
+3. Why python is called object oriented programming?
+
+-> __init__(self) -> constructor
+
+4. Why python is called oop?
+- Everything in python is an object (data structure, data type etc..)
+
+5. Advantages of oops:
+   - You can create your own datatype
+   - Code reusability
+   - debugging
+   - easy to colab
