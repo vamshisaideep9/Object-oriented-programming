@@ -35,3 +35,11 @@ an objects components to protect data integrity.
 
 11. static variable also called as a class variable that is shared among all instances of a class. 
 Unlike instance variables, Which are unique to each object.
+
+
+12. Inheritance: Is a fundamental oops concept that allows one class
+to acquire properties and behaviors from another class. 
+
+- This promotes code reusability and hierarchical structuring code.
+
+13. Superkeyword can be used only inside the class, can not access variables/attributes
