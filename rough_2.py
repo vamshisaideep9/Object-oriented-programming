@@ -11,3 +11,12 @@
 from oops_proj import ChatBook
 
 user1 = ChatBook()
+
+# print(user1.__name) # encapsulation
+
+# print(user1.get_name) #getter
+
+print(user1.user_id)
+
+
+

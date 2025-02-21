@@ -21,4 +21,17 @@
 
 6. End to end project (chatbook cls)
 
-7. Encapsulation:
+7. Can create attribute outside the class as well.
+
+8. A function is a block of reusable code defined using def. A method is defined inside a class that operates on instances of that class.
+
+9. Encapsulation:
+- Is the concept of bundling data (attributes) and methods (functions) that operate
+on the data into a single unit (a class). It also restricts direct access to some of 
+an objects components to protect data integrity.
+
+10. Getter and setter
+- To get the hidden attribute and to set the hidden attribute while maintaining Encapsulation.
+
+11. static variable also called as a class variable that is shared among all instances of a class. 
+Unlike instance variables, Which are unique to each object.
