@@ -18,3 +18,7 @@
    - Code reusability
    - debugging
    - easy to colab
+
+6. End to end project (chatbook cls)
+
+7. Encapsulation:
